@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">veryproject</string>
+
+    <string name="next">Suivant</string>
+    <string name="skip">Ignorer</string>
+    <string name="start">Commencer</string>
+
+    <string name="slide_1_title">Fédération Nationale des Arts et Sports Urbains</string>
+    <string name="slide_1_desc">La Fédération nationale des arts et des sports urbains (FENASUR) au service de la jeunesse !</string>
+
+    <string name="slide_2_title">Qui sommes nous?</string>
+    <string name="slide_2_desc"> La Fédération nationale des arts et des sports urbains (FENASUR) au service de la jeunesse ! .</string>
+
+    <string name="slide_3_title">Wear Masks</string>
+    <string name="slide_3_desc">Stay Home. Go out only if necessary and wear masks.</string>
+
+    <string name="slide_4_title">4 Types de membres.</string>
+    <string name="slide_4_desc">Work from Home has become the new norm.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
